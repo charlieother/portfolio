@@ -4,7 +4,7 @@ hero:
   subTitle: "Creative Leadership and Marketing Brilliance"
   title:
     firstPara: "Charlie Bow"
-    secondPara: "Portfolio"
+    secondPara: "PORTFOLIO"
   seeWorkBtn:
     text: "See My Work"
     link: "#project"
