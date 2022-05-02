@@ -1,10 +1,10 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "CHARLIE BOW"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Belies In the Great Ideas"
+    firstPara: "Creative Leadership"
+    secondPara: "Marketing, Branding, Music, Strateg"
   seeWorkBtn:
     text: "See Our Works"
     link: "#project"
@@ -13,7 +13,7 @@ hero:
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
+  subTitle: "SEE MY RECENT WORK"
   title: "Crafting experiences and seeking to make the complex clear & beautiful."
   seeAllbtn:
     link: "portfolio"
