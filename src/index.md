@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "CHARLIE BOW"
+  subTitle: "Creative Leadership and Marketing Brilliance"
   title:
-    firstPara: "Creative Leadership"
-    secondPara: "Marketing, Branding, Music, Strateg"
+    firstPara: "Charlie Bow"
+    secondPara: "Portfolio"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "See My Work"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Connect With Me"
     link: "contact"
 
 portfolio:
-  subTitle: "SEE MY RECENT WORK"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "RECENT WORK"
+  title: "Creativity and technical expertise"
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"
